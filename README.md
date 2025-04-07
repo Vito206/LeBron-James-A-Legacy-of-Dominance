@@ -1,1 +1,2 @@
 # LeBron-James-A-Legacy-of-Dominance
+Developed an interactive Tableau dashboard showcasing LeBron James' career achievements through data visualizations. Utilized SQL and Excel for data cleaning and manipulation, and followed a structured data analysis process (ask, prepare, process, analyze, share, act). Enhanced the dashboard with quotes, images, and interactive elements to create an engaging and informative user experience.
